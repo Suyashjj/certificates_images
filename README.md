@@ -1,4 +1,4 @@
-# 📜 Certificates Repository
+# 📜 Certificates Repository 
 
 A collection of my professional and academic **certificates**, organized by category:  
 
